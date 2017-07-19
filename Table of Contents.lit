@@ -1,0 +1,7 @@
+@book
+@title Learning C++ By Reading PPP2E
+
+As described in [this repository's README](https://github.com/RandomDSdevel/Learning-CPlusPlus-By-Reading-PP2E/blob/master/README.md), this link-traversable literate-programming document tree archives the results of my experiences learning to program in C++ by reading the contents of and going through the exercises in Bjarne Stroustrup's **Programming:  Principles and Practice Using C++**, Second Edition.  In this file, I provide a table of contents for this document tree.  
+
+<!--TO-DO/FIX-ME:  Actually **add** said ToC!  -->
+
